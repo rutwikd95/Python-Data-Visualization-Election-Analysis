@@ -19,7 +19,7 @@ In this project we will analyze two datasets. The first data set will be the res
 6.) Can we see an effect in the polls from the debates?
 
 
-## Next, we will look at the Donor Data set and answer some of the below questons:
+#### Next, we will look at the Donor Data set and answer some of the below questons:
 
 1.) How much was donated and what was the average donation?
 
